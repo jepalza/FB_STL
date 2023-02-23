@@ -8,4 +8,4 @@ No controlan posibles errores, son solo conversores "tontos", lo que ven , lo co
 
 Dejo un ejemplo minimalista de uno de los casos en los que se emplearon las rutinas.
 
-![Imagen miniyo.png](https://github.com/jepalza/FB_STL/blob/main/pictures/miniyo.png)
+![Imagen miniyo.png](https://github.com/jepalza/FB_STL/blob/main/miniyo.png)
